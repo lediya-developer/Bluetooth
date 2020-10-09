@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="turnOn">Turn On</string>
+    <string name="turnOff">Turn Off</string>
+    <string name="scan">Scan Device</string>
+    <string name="pair">Paired Device</string>
+</resources>
